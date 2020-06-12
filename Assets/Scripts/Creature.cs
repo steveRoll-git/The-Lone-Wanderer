@@ -42,7 +42,7 @@ public class Creature : MonoBehaviour
         health = maxHealth;
         
         rigidbody = GetComponent<Rigidbody2D>();
-        spriteRenderer = GetComponent<SpriteRenderer>();
+        spriteRenderer = GetComponentInChildren<SpriteRenderer>();
         origColor = spriteRenderer.color;
 
         defaultDrag = rigidbody.drag;
@@ -93,7 +93,7 @@ public class Creature : MonoBehaviour
 
             if (fadeTime <= 0)
             {
-                Instantiate(explosionPrefab, GetComponent<Renderer>().bounds.center, new Quaternion());
+                Instantiate(explosionPrefab, spriteRenderer.bounds.center, new Quaternion());
                 Destroy(gameObject);
             }
         }

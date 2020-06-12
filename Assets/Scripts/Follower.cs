@@ -24,7 +24,7 @@ public class Follower : Creature
     {
         base.Start();
 
-        animator = GetComponent<Animator>();
+        animator = GetComponentInChildren<Animator>();
 
         swing = GetComponentInChildren<SwingDamage>();
         swing.sender = transform;
