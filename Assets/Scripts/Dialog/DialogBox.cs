@@ -575,7 +575,7 @@ public class DialogBox : MonoBehaviour
 
                 newButton.GetChild(0).GetComponent<Text>().text = pair.text;
 
-                newButton.GetComponent<Button>().onClick.AddListener(delegate
+                newButton.GetComponent<DialogOptionButton>().onClick.AddListener(delegate
                 {
                     continueArrow.transform.localScale = new Vector3(1, 1, 1);
                     choiceBox.SetActive(false);

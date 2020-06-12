@@ -3124,11 +3124,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: dialog box
       objectReference: {fileID: 0}
-    - target: {fileID: 2704079709231162605, guid: 344b0bd77d4201d47a35147faceda6f1,
-        type: 3}
-      propertyPath: inDialog
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 3529298304242778447, guid: 344b0bd77d4201d47a35147faceda6f1,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3187,7 +3182,7 @@ PrefabInstance:
     - target: {fileID: 3529298304242778447, guid: 344b0bd77d4201d47a35147faceda6f1,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -92
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3529298304242778447, guid: 344b0bd77d4201d47a35147faceda6f1,
         type: 3}
