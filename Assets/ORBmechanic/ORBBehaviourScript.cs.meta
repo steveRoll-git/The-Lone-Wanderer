@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: db12bdb8776e924439e8b8f62f3fb3e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sprite_red: {fileID: -2138523963001979974, guid: 3ad2589d41a959346865098611d9aa30,
+      type: 3}
+  - sprite_blue: {fileID: 2875722036416341548, guid: 3ad2589d41a959346865098611d9aa30,
+      type: 3}
+  - sprite_green: {fileID: -3820539317120319718, guid: 3ad2589d41a959346865098611d9aa30,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

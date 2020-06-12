@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6a8b6fcf54e3f6e4985a48e4027acc6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - trailPrefab: {fileID: 4485222674380393003, guid: 6647d8c2750acc94b80a899501052fa2,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

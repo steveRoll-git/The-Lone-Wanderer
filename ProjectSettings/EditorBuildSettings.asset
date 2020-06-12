@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainmenu.unity
+    guid: 9a01aefacd79c1441ab967839527ff21
+  - enabled: 1
+    path: Assets/Scenes/Utopia Dungeons.unity
+    guid: d3a26ac07e538e043a9fb6a7a13a95f8
+  - enabled: 1
+    path: Assets/Scenes/Utopia Inhabitant Hub.unity
+    guid: 9258e211a4673c84d83dcce3cec2c344
+  m_configObjects: {}

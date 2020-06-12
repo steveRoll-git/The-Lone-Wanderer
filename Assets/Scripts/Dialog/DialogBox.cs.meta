@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9423e2d3294d3504b8b0ddb7d0a3fac9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - continueArrow: {instanceID: 0}
+  - nameBox: {instanceID: 0}
+  - choiceBox: {instanceID: 0}
+  - choiceButtonPrefab: {instanceID: 0}
+  - dialogText: {instanceID: 0}
+  - dialogSpriteIndex: {fileID: 4900000, guid: 9c1e896d7d9ffb8469252e88cbb58e06, type: 3}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

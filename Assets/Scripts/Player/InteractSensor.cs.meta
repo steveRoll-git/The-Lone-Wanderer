@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 187ed137a82a66243a9f0d6581a87c7c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - interactBubblePrefab: {fileID: 823188507535155064, guid: 6236864ee22abbe4a9bd3cc0f349c349,
+      type: 3}
+  - touching: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

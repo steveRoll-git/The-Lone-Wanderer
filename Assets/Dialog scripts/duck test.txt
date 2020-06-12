@@ -1,0 +1,21 @@
+!sprite Clint: right, cigarette
+!sprite Duck: left
+
+Duck: hello
+Clint: hey what's up
+
+@question
+?
+Where am I?:where,
+What's going on?:what,
+Goodbye:end
+
+@where
+Duck: here
+>question
+
+@what
+Duck: ksephwryhjrth
+>question
+
+@end

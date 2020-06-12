@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cb7145463dc22dd4eb4709c0687f8568
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - uiorb: {fileID: 2390669251291806872, guid: ac3e42b2f7920724b941ea56ce69eaf6, type: 3}
+  - sprite_red: {fileID: -2138523963001979974, guid: 3ad2589d41a959346865098611d9aa30,
+      type: 3}
+  - sprite_blue: {fileID: 2875722036416341548, guid: 3ad2589d41a959346865098611d9aa30,
+      type: 3}
+  - sprite_green: {fileID: -3820539317120319718, guid: 3ad2589d41a959346865098611d9aa30,
+      type: 3}
+  - ORB: {fileID: 2135278723885827999, guid: 690059ec5ceeb664497d44cec1880ffd, type: 3}
+  - canvas: {fileID: 1303427578972643737, guid: 4d5ab9d4a29ff924aac2c93af657e55b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
