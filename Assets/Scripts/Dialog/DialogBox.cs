@@ -206,6 +206,8 @@ public class DialogPiece
                     {
                         i++;
                         string op = lines[i].Trim();
+                        if (op == String.Empty)
+                            continue;
                         opList.Add(op[op.Length-1] == ',' ? op.Substring(0, op.Length - 1) : op);
                         if (op[op.Length-1] != ',')
                         {
