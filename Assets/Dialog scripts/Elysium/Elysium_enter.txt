@@ -1,0 +1,42 @@
+:Clint enters a place where lush plants and trees grow.
+!sprite clint: left, neutral
+
+: The duck poofs into existence.
+!sprite duck: right, neutral
+
+Duck: Ahem, allow me to explain where we are. We are in Elysium, the heaven for all nature lovers. Like I mentioned earlier, those who live here are nudists.
+
+Clint (angry): But wait  a darn moment, I only see animals here.
+
+Duck: ....
+
+Duck (confused): ...Animals don’t wear clothes Clint.
+
+@elysiumQuestions
+?
+
+Don’t you ever feel like putting on a little hat for fun?:duckhat,
+
+Give me some insight on the beasts here. :elysiumenemies,
+
+Time to go hunting.:end
+
+@duckhat
+
+Duck (confused): What would I need a hat for?
+
+Clint (neutral): Hmm, good question...
+
+>elysiumQuestions
+
+@elysiumenemies
+
+Duck (neutral): They may look cute but they are all dangerous and ready to attack if you get near.
+
+Clint (happy): Just like me.
+
+Duck: …
+
+>elysiumQuestions
+
+@end

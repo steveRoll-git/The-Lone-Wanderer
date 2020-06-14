@@ -164,7 +164,8 @@ public class PlayerController : Creature
                 (aiming ? moveSpeed_aim : moveSpeedDefault);
         }
 
-        healthBar.rectTransform.sizeDelta = new Vector2(health / maxHealth * healthBarBg.rectTransform.sizeDelta.x, healthBarBg.rectTransform.sizeDelta.y);
+        if (healthBar && healthBarBg)
+            healthBar.rectTransform.sizeDelta = new Vector2(health / maxHealth * healthBarBg.rectTransform.sizeDelta.x, healthBarBg.rectTransform.sizeDelta.y);
         
     }
     private void OnTriggerEnter2D(Collider2D otherCollider)

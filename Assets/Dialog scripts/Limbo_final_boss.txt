@@ -1,0 +1,39 @@
+!sprite clint: left, happy
+!sprite duck: right, happy
+
+Clint: Here you are, three guardian souls.
+
+Duck: Thank you. Wait here while I perform the ritual.
+
+:The duck enters an intricate ritual circle and begins channeling the heavenly energies. 
+
+:But then suddenly!
+
+Duck (confused): Hg.. these energies … 
+
+Duck: They are too strong! They are trying to overtake me…! I must resist!
+
+Duck: It s… to difficult! You have to shoot me. You have to shoot me before I am consumed by this evil. 
+
+Clint (sad): No. No way! I… I can't do that.
+
+Duck (sad): You have to!
+
+Clint(angry): Then who is going to resurrect me?!?
+
+Duck: Just do it!!... Uhharrg!!! 
+
+:With a horrible scream the duck is transformed. His eyes glows read and his voice sounds like grinding metal... 
+
+!sprite duck: -
+!sprite antiduck: right 
+
+AntiDuck: Moahahaahahaahahaaa! 
+
+AntiDuck: You are too late! I have already absorbed the powers of the Void!!
+
+AntiDuck: And with the additional power of these three guardians I will be unstoppable! I will remake all the heavens to my own desires. Bread everywhere!!
+
+Clint: Hate to break it to you, but that sounds boring.
+
+AntiDuck: You… you have been most helpful. But I'm afraid cowboys have no place in my new heaven! 

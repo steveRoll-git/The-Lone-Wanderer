@@ -1,0 +1,20 @@
+!sprite clint: left, happy
+!sprite villager: right
+
+Clint: How come you haven't joined the crusade?
+
+Villager: Just look at me! I am so small, and so weak.
+
+Clint: You shouldn't let that hold you back. Fighting is about so much more than physical strength. 
+
+Villager: Really? 
+
+Clint: Yes. Besides what do you got to lose? You  can only die once right?
+
+Villager: By the almighty, you are right! I will join the crusade! Thank you so much, stranger. 
+
+Clint (happy): You are welcome, partner.
+
+!sprite villager:-
+
+Clint (angry): Wait a minute...

@@ -1,0 +1,16 @@
+!sprite clint: left, happy
+!sprite knight: right
+
+Clint: Howdy, cowboy!
+
+Knight: I'm a knight, not a cow. 
+
+Clint (neutral): That is a mighty strange critter you are riding.
+
+!sprite knight: -
+!sprite steed: right
+
+Steed: Who are you calling critter, you ruffian? 
+
+Clint (sad): Beg your pardon. I had no idea you were…. sentient.
+

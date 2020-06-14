@@ -1,0 +1,14 @@
+!sprite clint: left, neutral
+
+:Down from heaven, riding beams of sunlight, steps a radiant figure.
+!sprite jössesamalia: right, angry
+
+JössesAmalia: Sinful human, bow before me!!
+
+Clint (angry): Take it easy partner, I'm just here to clean up corruption from you and the other gods.
+
+JössesAmalia: Liar! I am the one true god! Me!! There are no other heavens.
+
+Clint (neutral): Apparently there are at least three others, and the shitty one is messin' with your head.
+
+JössesAmalia: I will strike you down where you stand, blasphemer.

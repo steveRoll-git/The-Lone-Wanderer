@@ -1,0 +1,8 @@
+!sprite clint: left, neutral
+!sprite admin: right 
+
+Clint: Excuse me partner?
+
+Fly: **Bzzzz, bzzz*
+
+Clint (sad): I don’t know what I expected…

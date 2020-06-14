@@ -1,0 +1,13 @@
+!sprite clint: left, neutral
+
+:Suddenly the ground shakes and a gigantic monstrosity rises above the cityscape.
+
+!sprite eyepyramid: right, angry
+
+EyePyramid: ##÷^×+~\
+
+Clint: Howdy, partner, I have no idea what you are on about.
+
+EyePyramid: ¡%$$%&£□□□!
+
+Clint (angry): Ok… Let's get this over with. 

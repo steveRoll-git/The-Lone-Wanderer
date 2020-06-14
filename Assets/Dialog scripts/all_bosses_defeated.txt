@@ -1,0 +1,9 @@
+
+!sprite clint: left, neutral
+!sprite duck: right, happy
+
+Duck: Good job! Meet me back in limbo and I'll perform the ritual.
+
+Clint: And then resurrect me? 
+
+Duck: As promised

@@ -1,0 +1,14 @@
+!sprite clint: left, neutral
+:Out of the depths of the jungle steps a mighty warrior, as old and powerful as the Earth itself.
+!sprite gaiamaja: right, angry
+
+GaiaMaja: Die human!
+
+Clint: Wow, you are really cuttin' to the chase there honey.
+
+GaiaMaja: All humans deserve to die. All they do is take and take. They are trash! Cancer!
+
+Clint: I ain't here to take nothing. 
+
+GaiaMaja: You think that makes you better? Your mere existence is a stain on this earth! 
+

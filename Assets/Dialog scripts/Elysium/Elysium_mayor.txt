@@ -1,0 +1,61 @@
+!sprite clint: left, neutral
+!sprite mayor: right
+
+Mayor: Welcome to Elysium, please leave you clothes at the door.
+
+Clint (angry): Like hell I will.
+
+Mayor: My what language! It is policy that all inhabitants remain naked at all times.
+
+Clint (neutral): I'm not an inhabitant, I'm here to deal with your guardian.
+
+Mayor: Ah, well, I guess I'll allow it. It's not that you wear that much anyway…
+
+Clint (angry): I was. Enjoying. A nice. Day at. The BEACH!
+
+Mayor: Is there anything I could help you with, sir? 
+
+@mayorQuestions
+?
+
+Why the nudist policy?:nude,
+
+Can you tell me about your guardian?:gaiamaja, 
+
+See you later:end
+
+@nude
+
+Mayor: We all came into this world naked. It is only natural that we should spend our afterlife that way. 
+
+Clint (neutral): Makes sense. But you are missing out on one of the big joys in life.
+
+Mayor: What? 
+
+Clint (happy): Fashion! 
+
+Mayor: … so are you. 
+
+>mayorQuestions
+
+@gaiamaja
+
+Mayor: Our guardian is called GaiaMaja. She is the lifeblood of the world. The force of nature.
+
+Clint (neutral): Is she naked too?
+
+Mayor: Not currently no. She donned her battle armor, screaming something about exterminating all life on earth.
+
+Clint: And no one tried to stop her? 
+
+Mayor: As I said, she is a force of nature. Hard be it for me to argue with her judgement. 
+
+>mayorQuestions
+
+@end
+
+Mayor: Take care out there. Don't let the bed bugs bite!
+
+Clint: Isn't that something you are supposed to say when going to bed? 
+
+Mayor: Yes, but we do have biting bugs out there.

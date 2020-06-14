@@ -1,0 +1,26 @@
+!sprite clint: left, sad
+!sprite duck: right, sad
+
+Duck: Clint… I am so sorry…
+
+Clint: ...that’s not even my name.
+
+Duck: The dark energies, they are gone. But I am so weak… I fear I am not long for this world.  
+
+Clint: Hey, hey! You can’t die when you are already dead, can you?
+
+Duck: There seems to be more mysteries in this world than we can imagine, Clint.
+
+Clint (neutral): I already told you that’s not-
+
+Duck: Before I go, allow me to keep my promise.
+
+:The duck touches Clint’s cheek and his world explodes in a white light.
+
+:Clint blicks a few times, and suddenly find himself back on the beach where he died. 
+
+Clint: I’m alive again! Back at this blessed, blessed beach. 
+
+Clint: ...and my suntan might be a bit overdone...
+
+Clint: Maybe… maybe I should become a surfer.  That way I'll get into surfer heaven next time I die.

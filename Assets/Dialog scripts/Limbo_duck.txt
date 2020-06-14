@@ -1,0 +1,86 @@
+!sprite clint: left, neutral
+!sprite duck: right, neutral
+
+Clint: Hey, gooseling!
+
+Duck: Duck.
+
+Clint: I got some questions for you.
+
+@duckQuestions
+?
+
+What's the deal with the multiple heavens?:multipleheavens,
+Tell me about this the corruption.:corruption,
+How do I get a hold on the souls of the guardians?:guardians,
+How did I die?:clintdeath,
+Which heaven will I go to?:clintheaven,
+I know everything i need to know.:end
+
+@multipleheavens
+Duck (happy): Different people have different taste. We try to accomodate the afterlife to suit them. 
+
+Duck (neutral): To the north lies a place called just "Heaven". Not very imaginative, I know. But it is an old timey and classical place. 
+
+Duck: To the east lies Utopia. The tech-lovers paradise. Robots do everything for those guys.
+
+Duck: And finally to the west Elysium. A lush and green forest  Most of the people there are nudists.
+
+Clint (neutral): Those are the only ones?
+
+Duck: Heavens no! It is just the ones that got corrupted. 
+
+>duckQuestions
+
+@corruption
+Duck (neutral): It comes from The Void, and has seeped in to destroy the mind of the guardians. They've gone quite bonkers. 
+
+Clint (neutral): That doesn't sound cliché at all.
+
+Duck: Spare me the sarcasm. 
+
+Duck: Apparently some people enjoy making other people suffer, makes them feel better. They have an afterlife of their own called The Void.
+
+Duck (sad): Sometimes the nastiness seeps out of that place and into the other places.
+
+Clint: So it has happened before?
+
+Duck (neutral): Never heard of anyone returning from the dead before?
+>duckQuestions
+
+@guardians
+Duck (neutral): Quite simple. You slay them.
+
+Clint (angry): Slaying gods doesn't sound like the job of a hero, partner. 
+
+Duck: Slaying them doesn't destroy them. It just turns their souls into handy crystals. The crystals can be cleansed and then the gods revived.
+
+Clint (neutral): Handy.
+>duckQuestions
+
+@clintdeath
+Clint (sad): I can’t remember how my life ended. Do you know anything about it, duck? It must have been an amazing duel, right?
+
+Duck (neutral): I recall a volleyball.
+
+Clint: ...Do explain further.
+
+Duck: I believe somebody accidentally sent a volleyball flying in the wrong direction and it landed on a harpoon cannon and-
+
+Clint: Oof, I get the picture. Spare me the details.
+>duckQuestions
+
+@clintheaven
+Clint (neutral): If I go to a heaven, which heaven would I end up in?
+
+Duck (neutral): You are a cowboy, so the western heaven.
+
+Clint: Is there a beach there?
+
+Duck: There is sand there.
+
+Clint (sad): Hmm, your offer about resurrection sounds more and more tempting. 
+
+>duckQuestions
+
+@end

@@ -1,0 +1,11 @@
+!sprite clint: left, neutral
+!sprite eyepyramid: right, happy
+
+EyePyramid: Thank you stranger. I don't know what came over me.
+
+Clint: Corruption or some such. 
+
+EyePyramid: The point of technology is not to turn a bigger profit but to make people happier.
+
+Clint: Yeah, whatever. You can save the morals for when I'm done.
+

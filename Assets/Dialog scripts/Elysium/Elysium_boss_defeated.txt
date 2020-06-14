@@ -1,0 +1,12 @@
+!sprite clint: left, neutral
+!sprite gaiamaja: right, happy
+
+GaiaMaja: Dear me, I tried to murder you didn't I?
+
+Clint (angry): Yup.
+
+GaiaMaja: That won't do, that won't do at all. All creatures deserve to live. Even humans.
+
+GaiaMaja: After all there is no living in harmony if everyone is dead. 
+
+Clint (neutral): Glad you see it that way.

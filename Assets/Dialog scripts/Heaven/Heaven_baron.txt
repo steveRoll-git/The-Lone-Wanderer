@@ -1,0 +1,55 @@
+!sprite clint: left, neutral
+!sprite baron: right
+
+Baron: Welcome weary wanderer! 
+
+Clint: Howdy! 
+
+Baron: … you are an odd one. But since you got through the pearly gates you must be worthy. 
+
+Clint: I'm just passing through really. I'm here to meet your guardian.
+
+Baron: Aha, here to request an audience with your maker are you?
+
+Baron: I am afraid it will be a tad hard to see him right now. He is on a crusade and he took almost the entire village with him.
+
+Clint: I have some questions.
+
+Baron: Don't we all.
+
+@baronQuestions
+?
+
+What can you tell me about the villagers?:inhabitants,
+What can you tell me about your guardian?:amalia,
+Thanks partner.:end
+
+@inhabitants
+Baron: For some reason most of our villagers have chosen to join the crusade.
+
+Baron: It is of course a noble thing to fight for your god.  But I still can't shake the feeling that things are getting out of hand.
+
+Clint: I'm here to make sure things get back in hand.
+
+Baron: Thank God.
+
+Clint: No, thank duck.
+
+Baron: What?
+
+Clint: Never mind.
+>baronQuestions
+
+@amalia
+Baron: You mean GOD? You know the usual. Almighty. Just. Merciful.
+
+Baron: Though lately he's been a bit short on the merciful part. Not that I would ever criticize!
+
+Clint: Of course not. 
+>baronQuestions
+
+@end
+
+Baron: May his light shine upon your face!
+
+Clint: Yes, yes, you too.

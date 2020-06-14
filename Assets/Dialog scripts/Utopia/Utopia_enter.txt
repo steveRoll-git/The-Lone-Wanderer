@@ -1,0 +1,40 @@
+:Clint arrives in a strange place. Odd buildings with wires and electricity attached to them.
+!sprite clint: left, neutral
+
+: The duck poofs into existence.
+!sprite duck: right, neutral
+
+Clint: Where are we?
+
+Duck: We are in Utoipa, the Tech Heaven, where all expired technology spend the rest of their days. Or so it used to be anyway.
+
+Clint: I lost a mobile once, do you think it ended up here?
+
+Duck: What brand?
+
+Clint: Nok-
+
+Duck: No.  
+
+Clint: Hmm. Well, I have some questions about this heaven…
+
+@teachQuestions
+?
+
+Tell me more about Tech Heaven:techheaven,
+Tell about the inhabitants.:teachinhabitants,
+Thanks for the info:end
+
+@techheaven
+Duck (neutral): Before the corruption, everyone was happy sitting and talking on their phones all day long.
+
+Clint (sad): Sounds lonely.
+
+Duck (happy): Oh no, they pretty much only talked with friends and loved ones. Occasionally, a telemarketer.
+>teachQuestions
+
+@teachinhabitants
+Duck (neutral): I got a feeling that you need to watch out for laser beams.
+>teachQuestions
+
+@end

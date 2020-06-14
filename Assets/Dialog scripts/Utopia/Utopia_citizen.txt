@@ -1,0 +1,12 @@
+!sprite clint: left, neutral
+!sprite citizen: right 
+
+Citizen: Hello, are you enjoying your stay here?
+
+Clint: No, not really. 
+
+Citizen: That is a shame. Maybe you need an upgrade for your phone?
+
+Clint: No, what I need is a relaxing day at the beach.
+
+Citizen: No beaches here I’m afraid. 

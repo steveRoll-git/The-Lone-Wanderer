@@ -1,0 +1,43 @@
+:Clint finds himself standing in front of the pearly gates of Heaven. 
+!sprite clint: left, neutral
+
+:The duck poofs into existence.
+!sprite duck: right, neutral
+
+Duck: Pearly gates, we have arrived at the gates of Heaven.
+
+Clint: Figures.
+
+Duck: It is one of our oldest heavens so the inhabitants might seem a bit strange to you. 
+
+Clint: Compared to the other places? 
+
+Duck: Hm, fair point. 
+
+@heavenQuestions
+?
+
+What is so special about this place?:special,
+You mentioned the inhabitants were odd?:odd,
+Time to meet god almighty.: end
+
+@special
+Duck (neutral): Most inhabitants think this is the only heaven in existence, a truly special place only for the deserving. 
+
+Duck: All other heaves… well they must be hell of some sort.
+
+Clint (neutral): Not surprised people think that. Hell,  it's what I thought before coming here. It is what they teach in the schools. 
+
+Duck: You don't have to always listen to what they teach you in school.
+
+Clint (happy): Seldom did. Got straight Fs. 
+>heavenQuestions
+
+@odd
+Duck (confused): Hm, how to put it, they are old fashioned? Spears and pitchforks and that kind of things.
+
+Clint (happy): Then my trusty gunsword gives me the advantage! 
+
+Duck: Yes, but their guardian is also one of the strongest.
+
+@end

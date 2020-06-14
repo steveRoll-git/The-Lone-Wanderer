@@ -1,0 +1,12 @@
+!sprite clint: left, neutral
+!sprite mantis: right
+
+Mantis: Hello sir, would you care to taste my soup? 
+
+Clint: What's in it? 
+
+Mantis: My husband. 
+
+Clint (angry): No thanks.
+
+Mantis: So my husband is not good enough for you, eh? 

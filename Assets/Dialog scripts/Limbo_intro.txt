@@ -1,0 +1,40 @@
+:Somewhere in a lonely and desolate place a man wakes up. A man with no name. But we can call him Clint.
+
+!sprite clint: left, neutral
+
+:He is greeted by a magnificent and awesome creature.
+
+!sprite duck: right, neutral
+
+Duck: Welcome, lone wanderer.
+
+Clint: What happened? Where am I?
+
+Duck: I am afraid you are dead.
+
+Clint: And what are you supposed to be? God almighty himself? 
+
+:The duck shakes its head.
+
+Duck (confused): Not really. I'm more of a guide.
+
+Clint: Fancy that.
+
+:The man lights a cigaret and looks around  at the grey featureless landscape.
+
+Clint: This' heaven or hell? It ain't exactly what i imagined the great beyond to be like. 
+
+Duck (neutral): Neither. This is a place between places. A limbo if you will.
+
+Duck: I intercepted your journey to the afterlife because you are one of the greatest gunswords-slingermen to ever be alive.
+
+Clint (angry): Flattery doesn't suit you. What do you want?
+
+Duck (sad): Corruption has crept into the different heavens. I need someone to brave their guardians and bring their souls so I can perform a ritual of cleansing.
+
+Clint: I might be a gunsword for hire, but I aint workin' for free you know. What's in it for me?
+
+Duck (happy): If you succeed I will let you have your life back. 
+
+Clint (happy): You got yourself a deal partner.
+

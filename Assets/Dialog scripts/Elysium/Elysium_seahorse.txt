@@ -1,0 +1,14 @@
+!sprite clint: left, neutral
+!sprite seahorse: right
+
+Clint: A seahorse? What are you doing on land?
+
+Seahorse: Enjoying the weather. You? 
+
+Clint (sad): Wishing I was back at the beach.
+
+Seahorse: Ah, the beach. And beyond the great ocean, stretching as far as you can see. 
+
+Clint (happy): You got a beach here?
+
+Seahorse: No. 
