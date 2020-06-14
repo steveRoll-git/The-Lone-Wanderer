@@ -2261,7 +2261,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 15
-  sliderH: {fileID: 0}
   hurtCooldownLength: 1
   hurtAlpha: 0.7
   fadeLength: 1
